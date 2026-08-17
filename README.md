@@ -2,6 +2,8 @@
 
 An analysis of every residential property sale recorded in Ealing, Hounslow and Richmond upon Thames during 2025, using HM Land Registry Price Paid Data.
 
+dataset available at: https://price-paid-data.publicdata.landregistry.gov.uk/pp-2025.csv
+
 ## The question
 
 Richmond is well known to be more expensive than its neighbours. What is less obvious is why. Two explanations are possible and they are very different:
